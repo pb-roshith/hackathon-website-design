@@ -1,0 +1,33 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background-image: url("hacker.jpg");
+    background-size: cover;
+    background-position: center;
+    backdrop-filter: blur(2px);
+}
+.bp{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+}
+.bp2{
+    width: 100%;
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+}
+.bp3{
+    margin-top: 120px;
+    width: 100%;
+    position: absolute;
+    top: 60%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+}

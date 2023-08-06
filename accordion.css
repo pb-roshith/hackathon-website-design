@@ -1,0 +1,9 @@
+.text{
+    color: #fff;
+}
+.dark{
+    background-color: black;
+}
+.hov:hover{
+    color: red;
+}
